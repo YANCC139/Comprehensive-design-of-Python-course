@@ -1,4 +1,4 @@
-# Comprehensive-design-of-Python-course
+# Web scraping and data visualization of weather websites based on Python.
 This is a big assignment for the python course. I put it here
 This project is a simple crawler, data analysis and visualization operation, using some basic Python libraries, including pandas, Matplotlib, numpy, etc
 Crawled website is https://lishi.tianqi.com/ , two cities Changsha and Chengdu are selected for simple comparison, and the files can also be modified.
